@@ -159,6 +159,6 @@ runs
 
 *.gz
 
-
+*.pth
 
 *zarr/*
