@@ -14,3 +14,15 @@ MIRIAMS is a MONAI based repository to segment Volumetric MRIs for Multiple Scle
 </h3>
 
 To use MIRIAMS you have to save in the folder "miriams/models_trained" the models in the following link https://unicadrsi-my.sharepoint.com/:f:/g/personal/alessandro_pani2_unica_it/EiMbTwtf8nFOlrQEBk46vasBl8r1ZgUO6eON1KJ1nbkTSQ?e=gxuqEA
+
+<h3>
+  SETUP
+</h3>
+
+Make sure to follow the next steps to use MIRIAMS correctly.
+
+<h4>
+  MONAI installation
+</h4>
+
+Follow the instruction at this link to use MONAI correctly: https://docs.monai.io/en/latest/installation.html
